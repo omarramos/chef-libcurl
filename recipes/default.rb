@@ -28,9 +28,11 @@ packages = [
   "libcurl3",
   "libcurl3-gnutls",
   "libcurl4-openssl-dev",
+  "libcurl4-gnutls-dev",
   "libcurl3-dev",
   "libmagickwand-dev",
-  "imagemagick"
+  "imagemagick",
+  "libpq-dev"
 ]
 
 packages.each do |p|
