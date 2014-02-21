@@ -29,7 +29,6 @@ packages = [
   "libcurl3-gnutls",
   "libcurl4-openssl-dev",
   "libcurl4-gnutls-dev",
-  "libcurl3-dev",
   "libmagickwand-dev",
   "imagemagick",
   "libpq-dev",
