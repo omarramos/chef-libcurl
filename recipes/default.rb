@@ -33,7 +33,8 @@ packages = [
   "imagemagick",
   "libpq-dev",
   "libmagickwand-dev",
-  "nodejs"
+  "nodejs",
+  "postgresql-client"
 ]
 
 packages.each do |p|
