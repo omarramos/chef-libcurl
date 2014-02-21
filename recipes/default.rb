@@ -32,7 +32,8 @@ packages = [
   "libmagickwand-dev",
   "imagemagick",
   "libpq-dev",
-  "libmagickwand-dev"
+  "libmagickwand-dev",
+  "nodejs"
 ]
 
 packages.each do |p|
